@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "exam-practice-261311",
+  "private_key_id": "0ff681dd1e56652a786e2e9b7bc5e73cedfa7827",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC3WQgfnFiGcHAi\nvrWarLYUCcHCjymNdzIgIZHHKIamUb82iAgbktfg3Krypd9gEbjrXBFC5VXTpzEp\nl45Bk2QpGMz/jJLX6gyJPtonLAGJC3G/YllRwwy1YjKObdolvH9J0WeGO/qrHUpM\nuQlQ5ipNdeqEiDkHbTNMF3lmHoI0K7zrSJG2yeb/JyJemD8nx5GFD4DRW5SpJjZZ\n1l+qlePqJZ+GuFuoqIs2sOknghwEEirF9a7ilFgokITP/TR7V0wKaPkSDspg7l2y\ntmR9qVgLxqee47LRa83GExJw9U8bRt+08zPhDDgAWKwQ0md4xgTX6jOrKk+/W8R/\nH1SfJBdBAgMBAAECggEAEyM56S1v7Wh4a/KtZghiYP5mY8vUXIMf5PaxZAZjjPdk\nwWkQNOtDmUxZ6PCjZkBd+u3Qkhj6DRjwgBTlBmHqHIK4MxxrNMT7VgAM0/Xl8HYU\nrhNdRgmD9BLckBKrUzEKYEbOoCuhOJHaxYiy45ItbDRuAYjD2yCXhXkVyjD5Cj+G\nbRXomeN9YFYwZ6Fb7PqazJhxqlUOGqLvhl13fjat67n/i/TfgrXL/K1BfchzW2D5\nYl32vkzPHN/n7nz4GfxRDQ02bzj2jFbnJFck2iXoQ6pNadVGXG+3zODPCgEpS14+\nPLTpgKzq7RV9r5siu+sYZKNlv/Riqode726v2wRquQKBgQDsMizw2jNXwSBKze3r\noi9CUxDZZ92mXN667v3sYbLIOTwVwXoWh8U7MJvOPQt2Qd0pMoLxaYVxPPWJOia7\nfYcmzrW7sRY4QmTUzJjK/ivf317DaiCFbSrozQTVo59CJaRC8RpMrXrzvls7bFJc\n9Du/6j7p/4/quTBnhndqBj0YJwKBgQDGuH8i0+cMCvkEgTS1iH5+4KPUlx8PHgKX\nor5iVNsrXmJxRb0uBDkCvU9hG6PJhEWLKyL2S+SCz/+yK8vlrsjSU7Dp7wCWgu1M\ns2JJ/NRgME00qTkHQXJotJK+bkYI5eKFZv6eMQ6MtYmS4ZgUO7iJpb/bJXK6Sjp6\nLmjsGvNOVwKBgCo8QqsC6aFsiGC3+C5lfvvmLKIjn4/rFWzp5YAKbFS/X04onbM/\nrfYKmCHF6rHHz0tZm+6dRt5b3zAdtOVb6fn3hqm8XdPLk4o117CcyK2snJ5m8M/L\nGJwuZQnqy0ShxICv6lsBvnWteVTj5sp2ZeTId12SdGKtoMkyU1IjMXOLAoGBAKke\nDqS3LeRj2jTpONBdTznvN74OtlIJOi+OQvQwPy2Tb7fyn+NvmI0qS0nbWfJ/7SdZ\nGLH/OIPTPEqHV0krDKFitCcCTb/JwOYLq9RHpP4PXUU51tzD5/gP5OrHsjaUXckm\nM/6wxS8et+wWrXRattv+AV8haZf83/NnV8fHz9SVAoGAM/puXlapm/NoBotF6XKd\nI+vEuD9Koev7tTE0FY5YEPtgdaawUk3mdUniHtp46F96VvLjznR1CXCTLjEZq1LD\nl/RPectmnalKhGnKlwr31RWcKRiRLCcD/ZdycK0e2390FJBukS4EbHYj0Ryc+PT8\nePMfUbQbMCNgkSmAtVEaW8g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechapi@exam-practice-261311.iam.gserviceaccount.com",
+  "client_id": "100204598482039621867",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechapi%40exam-practice-261311.iam.gserviceaccount.com"
+}
